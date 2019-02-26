@@ -2,10 +2,9 @@
   "name": "learn-graphql",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "start:dev": "nodemon lib/server.js",
-    "lint": "eslint --ignore-paths .gitignore ."
+    "lint": "eslint --ignore-path .gitignore ."
   },
   "keywords": [],
   "author": "",
