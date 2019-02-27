@@ -24,7 +24,8 @@
     "koa-router": "^7.4.0",
     "lodash": "^4.17.11",
     "mysql2": "^1.6.5",
-    "objection": "^1.6.2"
+    "objection": "^1.6.2",
+    "require-all": "^3.0.0"
   },
   "devDependencies": {
     "cross-env": "^5.2.0",
